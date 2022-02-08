@@ -1,0 +1,11 @@
+[
+    {
+        "id": 1,
+        "nome": "Lucas Souza",
+        "email": "lucasgfsouza@outlook.com",
+        "idade": 20,
+        "salario_real": 5200,
+        "vip": true,
+        "perfilId": 1
+    }
+]
