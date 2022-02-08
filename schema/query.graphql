@@ -1,4 +1,5 @@
 #import Usuario, Perfil from 'usuario.graphql'
+#import Mutation, from 'mutation.graphql'
 
 type Query {
   usuarioLogado: Usuario

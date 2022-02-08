@@ -3,9 +3,18 @@
         "id": 1,
         "nome": "Lucas Souza",
         "email": "lucasgfsouza@outlook.com",
-        "idade": 20,
+        "idade": 32,
         "salario_real": 5200,
         "vip": true,
         "perfilId": 1
+    },
+    {
+        "id": 2,
+        "nome": "Geisa Lanza",
+        "email": "geisalanzaa@outlook.com",
+        "idade": 31,
+        "salario_real": 6200,
+        "vip": true,
+        "perfilId": 2
     }
 ]
